@@ -275,4 +275,3 @@ Please consult the original repositories' licenses and notices before redistribu
 Use voice models and generated audio only when you have the necessary permissions and rights. Respect the licenses and terms applicable to source code, model checkpoints, training data, and generated content.
 
 This repository is intended for technical experimentation and educational purposes.
-# RVC-WebUI-Apple-Silicon-Mac-Setup
